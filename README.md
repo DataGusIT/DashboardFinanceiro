@@ -34,6 +34,15 @@ Este dashboard foi desenvolvido no **Power BI** para oferecer insights essenciai
 
 ---
 
+## 💻 Tecnologias Utilizadas
+✅ **Power BI** – Ferramenta principal para análise e visualização dos dados.  
+✅ **DAX (Data Analysis Expressions)** – Para cálculos avançados dentro do Power BI.  
+✅ **Excel / CSV** – Fonte de dados utilizada para armazenar as informações financeiras.  
+✅ **Enlighten Data Story** – Customização avançada de relatórios e visualizações interativas.  
+✅ **Scroller Visual** – Implementação do scroller para análise por estados.  
+
+---
+
 ## 🛠️ Como Usar
 1. **Baixe o arquivo** `.pbix` e abra no **Power BI Desktop**.  
 2. Utilize os filtros interativos para explorar os dados com mais profundidade.  
